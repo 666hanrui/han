@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-labelledby="title desc">
+  <title id="title">MISS ROLA logo</title>
+  <desc id="desc">Olive circular premium human hair brand emblem with a feminine profile and MISS ROLA lettering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d7cf70"/>
+      <stop offset="1" stop-color="#8e8a37"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3d6c8"/>
+      <stop offset=".55" stop-color="#b9a59d"/>
+      <stop offset="1" stop-color="#f4cfae"/>
+    </linearGradient>
+    <path id="topArc" d="M105 258a155 155 0 0 1 310 0"/>
+    <path id="bottomArc" d="M415 282a155 155 0 0 1-310 0"/>
+  </defs>
+  <circle cx="260" cy="260" r="228" fill="#fff6ee"/>
+  <circle cx="260" cy="260" r="216" fill="none" stroke="url(#ring)" stroke-width="22" stroke-dasharray="120 26 72 18 118 28"/>
+  <circle cx="260" cy="260" r="186" fill="url(#bg)" stroke="#171712" stroke-width="7"/>
+  <circle cx="260" cy="260" r="174" fill="none" stroke="#f6e5b0" stroke-width="3" opacity=".8"/>
+  <g fill="#11110f">
+    <path d="M157 315c14-73 13-139 97-178 28-13 75-18 112 2-59 2-84 24-92 51-8 30 7 53 48 69 15 6 23 17 20 31-7 34-37 69-86 86-40 14-77 3-99-20z"/>
+    <path d="M133 310c45-93 98-151 188-165-84 30-124 91-151 176z"/>
+    <path d="M142 345c35-71 94-135 181-162-80 47-106 103-130 173z" opacity=".92"/>
+    <path d="M184 367c38-69 82-113 156-135-63 44-86 87-105 142z" opacity=".78"/>
+  </g>
+  <path d="M309 163c-6 26-4 49 17 71 10 11 20 18 20 30-1 9-11 12-24 12-12 0-19 5-20 13-1 7 5 13 17 17-20 7-39 2-52-13-17-19-18-47-7-72 11-26 26-46 49-58z" fill="#b9b54d"/>
+  <g text-anchor="middle" fill="#fff5e5">
+    <text x="260" y="250" font-family="Georgia,serif" font-size="74" letter-spacing="5">MISS</text>
+    <text x="260" y="330" font-family="Georgia,serif" font-size="94" letter-spacing="2">ROLA</text>
+  </g>
+  <g fill="#151510" font-family="Arial,sans-serif" font-weight="700" font-size="20" letter-spacing="3">
+    <text><textPath href="#topArc" startOffset="50%" text-anchor="middle">100% HUMAN HAIR</textPath></text>
+    <text><textPath href="#bottomArc" startOffset="50%" text-anchor="middle">PREMIUM QUALITY</textPath></text>
+  </g>
+</svg>
